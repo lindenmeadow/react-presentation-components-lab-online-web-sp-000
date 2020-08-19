@@ -16,7 +16,7 @@ class SimpleComponent extends React.Component {
                 mood: 'sad'
             })
         }
-        else { 
+        else {
             this.setState({
                 mood: 'happy'
             })
